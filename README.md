@@ -28,6 +28,10 @@ Task 1: we are going to add two more column in excel spreadsheet **Result** and 
  
 Task 2: After doing the first task we will create multiple sheet in the same excel file base on Grade He/She got
 
+## 10. Simple Project  2
+In this project we are separating the records in different excel spreadsheet for different **Grade**.
+All the task is same as **Simple Project 1** but only differece is that we are putting different **Grade** data in different excel spreadsheet.
+
 ## Requirements
     python   
     pandas
