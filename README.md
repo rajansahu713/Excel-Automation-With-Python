@@ -12,6 +12,12 @@
     9. Sample Project 1  
     10. Sample Project 2
     
+    
+## Requirements
+    python   
+    pandas
+    openpyxl
+    
 
 ## Reference
     https://openpyxl.readthedocs.io/en/stable/
